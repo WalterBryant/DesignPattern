@@ -1,1 +1,1 @@
-include ':app', ':designpattern', ':designpattern'
+include ':app', ':designpattern'
